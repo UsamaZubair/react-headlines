@@ -1,0 +1,30 @@
+
+.border {
+    padding-bottom: 1ch;
+  }
+  .box {
+    display: flex;
+    padding-left: 1ch;
+    padding-right: 1ch;
+  }
+  
+  .image {
+    padding-top: 1ch;
+    padding-right: 1ch;
+  }
+
+  .sub {
+    padding-top: 1ch;
+    color: grey;
+    font-size: 15px;
+  }
+
+  .main {
+    border: 1px solid;
+    padding-right: 4.5cm;
+    background-color: white;
+    border-color: white;
+  }
+
+
+  
